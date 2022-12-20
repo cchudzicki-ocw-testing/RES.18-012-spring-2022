@@ -53,28 +53,28 @@ Lecture 22: Decomposition of Modules (PDF) ({{% resource_link "68fb1749-e560-44a
 
 Lecture 23: Noetherian Rings (PDF) ({{% resource_link "a82a5297-548d-4576-ac75-9e09f43f89f5" "TEX" %}})
 
-Lecture 24: Fields (PDF) (TEX)
+Lecture 24: Fields (PDF) ({{% resource_link "2d36ef16-3ce4-40cc-b351-2f3012be40f0" "TEX" %}})
 
-Lecture 25: Field Extensions (PDF) (TEX)
+Lecture 25: Field Extensions (PDF) ({{% resource_link "cbeae633-75ad-42c8-9aff-440676d7382c" "TEX" %}})
 
-Lecture 26: Finite Fields (PDF) (TEX)
+Lecture 26: Finite Fields (PDF) ({{% resource_link "b233bec9-9ed4-417c-b591-a1d7655fd0bc" "TEX" %}})
 
-Lecture 27: Finite Fields (continued) (PDF) (TEX)
+Lecture 27: Finite Fields (continued) (PDF) ({{% resource_link "bc17289a-3a2f-46b6-8559-83d008b0fb16" "TEX" %}})
 
-Lecture 28: Geometry of Function Fields (PDF) (TEX)
+Lecture 28: Geometry of Function Fields (PDF) ({{% resource_link "15046109-5b76-4124-8f32-291fde6c6aeb" "TEX" %}})
 
-Lecture 29: Galois Theory (PDF) (TEX)
+Lecture 29: Galois Theory (PDF) ({{% resource_link "e816c207-ef58-4c2d-ad28-bb967f5df698" "TEX" %}})
 
-Lecture 30: Main Theorem of Galois Theory (PDF) (TEX)
+Lecture 30: Main Theorem of Galois Theory (PDF) ({{% resource_link "12b5fad1-5c69-4295-af48-cf2a6b996609" "TEX" %}})
 
-Lecture 31: Applications of the Galois Correspondence (PDF) (TEX)
+Lecture 31: Applications of the Galois Correspondence (PDF) ({{% resource_link "7caf82d3-5c73-4c02-ac20-1753287bca41" "TEX" %}})
 
-Lecture 32: Solving Polynomial Equations (PDF) (TEX)
+Lecture 32: Solving Polynomial Equations (PDF) ({{% resource_link "ae5e11be-d647-4962-8257-572863f29d59" "TEX" %}})
 
-Lecture 33: Symmetric Polynomials and the Discriminant (PDF) (TEX)
+Lecture 33: Symmetric Polynomials and the Discriminant (PDF) ({{% resource_link "c505c908-a776-4550-a920-da7f76d0efd1" "TEX" %}})
 
-Lecture 34: Solving Polynomial Equations (PDF) (TEX)
+Lecture 34: Solving Polynomial Equations (PDF) ({{% resource_link "bccfb89e-ba37-49fe-a2ea-35f7e855f4da" "TEX" %}})
 
-Lecture 35: Final Remarks (PDF) (TEX)
+Lecture 35: Final Remarks (PDF) ({{% resource_link "052b4d61-8719-4bcd-ab48-a663c37f42a7" "TEX" %}})
 
 Appendix: Dimensions of Irreducible Characters (PDF) (TEX)
