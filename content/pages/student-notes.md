@@ -5,7 +5,7 @@ draft: false
 title: Student Notes
 uid: f78859a1-11a5-4c4a-b475-1fc4bfaa6f86
 ---
-Complete Set of Algebra II Notes in One File (PDF - 1.5 MB), TEX files and associated images (ZIP) 
+Complete Set of Algebra II Notes in One File ({{% resource_link "637e94df-babc-4915-b480-6f4e67d01557" "PDF - 1.5 MB" %}}), TEX files and associated images (ZIP) 
 
 Lecture 1: Representations ({{% resource_link "09afe14a-f0a7-44c1-8506-c4092bb1801d" "PDF" %}}) ({{% resource_link "81f318e0-7fb1-4f4b-abb2-26109bb69d6e" "TEX" %}})
 
@@ -67,14 +67,14 @@ Lecture 29: Galois Theory ({{% resource_link "6f3ec030-b5d8-4b52-86cf-9f1ebde2ff
 
 Lecture 30: Main Theorem of Galois Theory ({{% resource_link "ba9ba04d-f03f-4e7f-aeaf-25e950b06367" "PDF" %}}) ({{% resource_link "12b5fad1-5c69-4295-af48-cf2a6b996609" "TEX" %}})
 
-Lecture 31: Applications of the Galois Correspondence (PDF) ({{% resource_link "7caf82d3-5c73-4c02-ac20-1753287bca41" "TEX" %}})
+Lecture 31: Applications of the Galois Correspondence ({{% resource_link "e92b6e00-6620-4116-8d4b-8c8f6c8f7868" "PDF" %}}) ({{% resource_link "7caf82d3-5c73-4c02-ac20-1753287bca41" "TEX" %}})
 
-Lecture 32: Solving Polynomial Equations (PDF) ({{% resource_link "ae5e11be-d647-4962-8257-572863f29d59" "TEX" %}})
+Lecture 32: Solving Polynomial Equations ({{% resource_link "62164702-c2f4-4646-add5-1564eded34cc" "PDF" %}}) ({{% resource_link "ae5e11be-d647-4962-8257-572863f29d59" "TEX" %}})
 
-Lecture 33: Symmetric Polynomials and the Discriminant (PDF) ({{% resource_link "c505c908-a776-4550-a920-da7f76d0efd1" "TEX" %}})
+Lecture 33: Symmetric Polynomials and the Discriminant ({{% resource_link "04b7ac9f-3f49-4ad7-9b48-3ada6c090458" "PDF" %}}) ({{% resource_link "c505c908-a776-4550-a920-da7f76d0efd1" "TEX" %}})
 
-Lecture 34: Solving Polynomial Equations (continued) (PDF) ({{% resource_link "bccfb89e-ba37-49fe-a2ea-35f7e855f4da" "TEX" %}})
+Lecture 34: Solving Polynomial Equations (continued) ({{% resource_link "9a901891-6f03-4b19-baa1-6e66292a8370" "PDF" %}}) ({{% resource_link "bccfb89e-ba37-49fe-a2ea-35f7e855f4da" "TEX" %}})
 
-Lecture 35: Final Remarks (PDF) ({{% resource_link "052b4d61-8719-4bcd-ab48-a663c37f42a7" "TEX" %}})
+Lecture 35: Final Remarks ({{% resource_link "3b68d36e-8dbb-4ac1-a5dd-623b362e845b" "PDF" %}}) ({{% resource_link "052b4d61-8719-4bcd-ab48-a663c37f42a7" "TEX" %}})
 
-Appendix: Dimensions of Irreducible Characters (PDF) ({{% resource_link "b88a26d4-7b4d-4061-b821-726faee59876" "TEX" %}})
+Appendix: Dimensions of Irreducible Characters ({{% resource_link "e39575b8-4652-4603-822b-6079f7c3d54b" "PDF" %}}) ({{% resource_link "b88a26d4-7b4d-4061-b821-726faee59876" "TEX" %}})
