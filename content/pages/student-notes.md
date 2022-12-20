@@ -47,7 +47,7 @@ Lecture 19: Modules over a Ring (PDF) ({{% resource_link "3874ce28-e996-46bf-9ca
 
 Lecture 20: Modules and Presentation Matrices (PDF) ({{% resource_link "a6859d56-2f43-4aed-80df-df9aba4d47ad" "TEX" %}})
 
-Lecture 21: Modules (PDF) ({{% resource_link "2db94a0e-e8d9-4978-b979-fe64918aa1a5" "TEX" %}})
+Lecture 21: Smith Normal Form (PDF) ({{% resource_link "2db94a0e-e8d9-4978-b979-fe64918aa1a5" "TEX" %}})
 
 Lecture 22: Decomposition of Modules (PDF) ({{% resource_link "68fb1749-e560-44ac-8b52-acbba4416294" "TEX" %}})
 
