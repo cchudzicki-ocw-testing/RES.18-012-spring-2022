@@ -5,9 +5,7 @@ draft: false
 title: Student Notes
 uid: f78859a1-11a5-4c4a-b475-1fc4bfaa6f86
 ---
-Complete Set of Algebra II Notes in One File (PDF) (TEX), Images Associated with the LaTex File (ZIP) 
-
- 
+Complete Set of Algebra II Notes in One File (PDF), TEX files and associated images (ZIP) 
 
 Lecture 1: Representations (PDF) (TEX)
 
