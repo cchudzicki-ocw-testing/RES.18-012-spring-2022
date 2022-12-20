@@ -77,4 +77,4 @@ Lecture 34: Solving Polynomial Equations (PDF) ({{% resource_link "bccfb89e-ba37
 
 Lecture 35: Final Remarks (PDF) ({{% resource_link "052b4d61-8719-4bcd-ab48-a663c37f42a7" "TEX" %}})
 
-Appendix: Dimensions of Irreducible Characters (PDF) (TEX)
+Appendix: Dimensions of Irreducible Characters (PDF) ({{% resource_link "b88a26d4-7b4d-4061-b821-726faee59876" "TEX" %}})
