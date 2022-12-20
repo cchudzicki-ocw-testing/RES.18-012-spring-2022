@@ -5,27 +5,27 @@ draft: false
 title: Student Notes
 uid: f78859a1-11a5-4c4a-b475-1fc4bfaa6f86
 ---
-Complete Set of Algebra II Notes in One File (PDF), TEX files and associated images (ZIP) 
+Complete Set of Algebra II Notes in One File (PDF - 1.5 MB), TEX files and associated images (ZIP) 
 
-Lecture 1: Representations (PDF) ({{% resource_link "81f318e0-7fb1-4f4b-abb2-26109bb69d6e" "TEX" %}})
+Lecture 1: Representations ({{% resource_link "09afe14a-f0a7-44c1-8506-c4092bb1801d" "PDF" %}}) ({{% resource_link "81f318e0-7fb1-4f4b-abb2-26109bb69d6e" "TEX" %}})
 
-Lecture 2: Characters and the Direct Sum (PDF) ({{% resource_link "15ad9bbb-6b61-45cc-bb5b-9181620c0862" "TEX" %}})
+Lecture 2: Characters and the Direct Sum ({{% resource_link "d6159130-5d31-4768-9342-e2bd1d49605a" "PDF" %}}) ({{% resource_link "15ad9bbb-6b61-45cc-bb5b-9181620c0862" "TEX" %}})
 
-Lecture 3: Irreducible Representations (PDF) ({{% resource_link "ed6ee731-89b9-4007-bcd5-8898ef72a9c6" "TEX" %}})
+Lecture 3: Irreducible Representations ({{% resource_link "599f0e12-8259-4ff4-bfd0-ea548b45c564" "PDF" %}}) ({{% resource_link "ed6ee731-89b9-4007-bcd5-8898ef72a9c6" "TEX" %}})
 
-Lecture 4: The Main Theorem (PDF) ({{% resource_link "68c903fd-3ec1-43a5-b53c-4b6dd8621663" "TEX" %}})
+Lecture 4: The Main Theorem ({{% resource_link "8f9f6af9-a519-4c02-978c-508331e02e40" "PDF" %}}) ({{% resource_link "68c903fd-3ec1-43a5-b53c-4b6dd8621663" "TEX" %}})
 
-Lecture 5: Characters and Schur’s Lemma (PDF) ({{% resource_link "d5a51be5-8e47-44e2-ad11-d29cca54208e" "TEX" %}})
+Lecture 5: Characters and Schur’s Lemma ({{% resource_link "ffb398f5-db39-4679-98fa-40899178a010" "PDF" %}}) ({{% resource_link "d5a51be5-8e47-44e2-ad11-d29cca54208e" "TEX" %}})
 
-Lecture 6: Orthonormality of Characters (PDF) ({{% resource_link "0836c840-2da1-4b0d-ba4b-417687c2ffa3" "TEX" %}})
+Lecture 6: Orthonormality of Characters ({{% resource_link "67683a8b-2058-4fb5-a598-e044580361e5" "PDF" %}}) ({{% resource_link "0836c840-2da1-4b0d-ba4b-417687c2ffa3" "TEX" %}})
 
-Lecture 7: Proof of the Main Theorem (PDF) ({{% resource_link "c66d1238-9e63-4284-a5b7-5747e7455988" "TEX" %}})
+Lecture 7: Proof of the Main Theorem ({{% resource_link "45aa38b4-bff3-4f19-a197-a88f03c666a8" "PDF" %}}) ({{% resource_link "c66d1238-9e63-4284-a5b7-5747e7455988" "TEX" %}})
 
-Lecture 8: Rings (PDF) ({{% resource_link "82051658-2f38-4df1-97a2-11b6f558ac88" "TEX" %}})
+Lecture 8: Rings ({{% resource_link "50bc72b7-fb6c-4436-981f-db23d6d5a989" "PDF" %}}) ({{% resource_link "82051658-2f38-4df1-97a2-11b6f558ac88" "TEX" %}})
 
-Lecture 9: Building New Rings (PDF) ({{% resource_link "9da21a4e-24e8-4fe8-b521-6782bff40470" "TEX" %}})
+Lecture 9: Building New Rings ({{% resource_link "8b7a30ee-eff0-4f42-8310-38ed97fa164b" "PDF" %}}) ({{% resource_link "9da21a4e-24e8-4fe8-b521-6782bff40470" "TEX" %}})
 
-Lecture 10: Ideals in Polynomial Rings (PDF) ({{% resource_link "84caf121-6b16-4290-a6ce-88e36437515a" "TEX" %}})
+Lecture 10: Ideals in Polynomial Rings ({{% resource_link "9aca24b7-bb1f-4f6b-bc86-60c9f004a202" "PDF" %}}) ({{% resource_link "84caf121-6b16-4290-a6ce-88e36437515a" "TEX" %}})
 
 Lecture 11: More About Rings (PDF) ({{% resource_link "05eddc5e-ab6a-449d-85ec-d69cc1ec283e" "TEX" %}})
 
