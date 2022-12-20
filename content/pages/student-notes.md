@@ -47,25 +47,25 @@ Lecture 19: Modules over a Ring ({{% resource_link "659b3d0e-365c-41c7-8096-1cd2
 
 Lecture 20: Modules and Presentation Matrices ({{% resource_link "27b51bbf-e62b-4bdd-8418-26885bc9a7c4" "PDF" %}}) ({{% resource_link "a6859d56-2f43-4aed-80df-df9aba4d47ad" "TEX" %}})
 
-Lecture 21: Smith Normal Form (PDF) ({{% resource_link "2db94a0e-e8d9-4978-b979-fe64918aa1a5" "TEX" %}})
+Lecture 21: Smith Normal Form ({{% resource_link "f8972f95-7e73-40e5-b5c5-30c509fef747" "PDF" %}}) ({{% resource_link "2db94a0e-e8d9-4978-b979-fe64918aa1a5" "TEX" %}})
 
-Lecture 22: Decomposition of Modules (PDF) ({{% resource_link "68fb1749-e560-44ac-8b52-acbba4416294" "TEX" %}})
+Lecture 22: Decomposition of Modules ({{% resource_link "050e80e3-3530-419a-9556-c8d47d3ab0ad" "PDF" %}}) ({{% resource_link "68fb1749-e560-44ac-8b52-acbba4416294" "TEX" %}})
 
-Lecture 23: Noetherian Rings (PDF) ({{% resource_link "a82a5297-548d-4576-ac75-9e09f43f89f5" "TEX" %}})
+Lecture 23: Noetherian Rings ({{% resource_link "d84ab0e0-c8db-46ff-9a12-862a8400ca59" "PDF" %}}) ({{% resource_link "a82a5297-548d-4576-ac75-9e09f43f89f5" "TEX" %}})
 
-Lecture 24: Fields (PDF) ({{% resource_link "2d36ef16-3ce4-40cc-b351-2f3012be40f0" "TEX" %}})
+Lecture 24: Fields ({{% resource_link "3376e872-fdb6-43ff-a96f-3540e03841ce" "PDF" %}}) ({{% resource_link "2d36ef16-3ce4-40cc-b351-2f3012be40f0" "TEX" %}})
 
-Lecture 25: Field Extensions (PDF) ({{% resource_link "cbeae633-75ad-42c8-9aff-440676d7382c" "TEX" %}})
+Lecture 25: Field Extensions ({{% resource_link "45335f3a-f0d8-4a4e-98e6-a943319f01c9" "PDF" %}}) ({{% resource_link "cbeae633-75ad-42c8-9aff-440676d7382c" "TEX" %}})
 
-Lecture 26: Finite Fields (PDF) ({{% resource_link "b233bec9-9ed4-417c-b591-a1d7655fd0bc" "TEX" %}})
+Lecture 26: Finite Fields ({{% resource_link "ffcbb356-e579-4995-a1be-e700c7ba0b69" "PDF" %}}) ({{% resource_link "b233bec9-9ed4-417c-b591-a1d7655fd0bc" "TEX" %}})
 
-Lecture 27: Finite Fields (continued) (PDF) ({{% resource_link "bc17289a-3a2f-46b6-8559-83d008b0fb16" "TEX" %}})
+Lecture 27: Finite Fields (continued) ({{% resource_link "bf4f13bd-b52a-478b-9f56-eb2787685417" "PDF" %}}) ({{% resource_link "bc17289a-3a2f-46b6-8559-83d008b0fb16" "TEX" %}})
 
-Lecture 28: Geometry of Function Fields (PDF) ({{% resource_link "15046109-5b76-4124-8f32-291fde6c6aeb" "TEX" %}})
+Lecture 28: Geometry of Function Fields ({{% resource_link "ea044f04-0041-4b7d-b4e1-0c4af998f8ce" "PDF" %}}) ({{% resource_link "15046109-5b76-4124-8f32-291fde6c6aeb" "TEX" %}})
 
-Lecture 29: Galois Theory (PDF) ({{% resource_link "e816c207-ef58-4c2d-ad28-bb967f5df698" "TEX" %}})
+Lecture 29: Galois Theory ({{% resource_link "6f3ec030-b5d8-4b52-86cf-9f1ebde2ffc3" "PDF" %}}) ({{% resource_link "e816c207-ef58-4c2d-ad28-bb967f5df698" "TEX" %}})
 
-Lecture 30: Main Theorem of Galois Theory (PDF) ({{% resource_link "12b5fad1-5c69-4295-af48-cf2a6b996609" "TEX" %}})
+Lecture 30: Main Theorem of Galois Theory ({{% resource_link "ba9ba04d-f03f-4e7f-aeaf-25e950b06367" "PDF" %}}) ({{% resource_link "12b5fad1-5c69-4295-af48-cf2a6b996609" "TEX" %}})
 
 Lecture 31: Applications of the Galois Correspondence (PDF) ({{% resource_link "7caf82d3-5c73-4c02-ac20-1753287bca41" "TEX" %}})
 
