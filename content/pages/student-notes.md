@@ -27,25 +27,25 @@ Lecture 9: Building New Rings ({{% resource_link "8b7a30ee-eff0-4f42-8310-38ed97
 
 Lecture 10: Ideals in Polynomial Rings ({{% resource_link "9aca24b7-bb1f-4f6b-bc86-60c9f004a202" "PDF" %}}) ({{% resource_link "84caf121-6b16-4290-a6ce-88e36437515a" "TEX" %}})
 
-Lecture 11: More About Rings (PDF) ({{% resource_link "05eddc5e-ab6a-449d-85ec-d69cc1ec283e" "TEX" %}})
+Lecture 11: More About Rings ({{% resource_link "d80008a8-a85c-433b-8eb8-15ee1e0d51b9" "PDF" %}}) ({{% resource_link "05eddc5e-ab6a-449d-85ec-d69cc1ec283e" "TEX" %}})
 
-Lecture 12: Factorization in Rings (PDF) ({{% resource_link "688cde17-3788-4d66-bdf9-9469852e0e7f" "TEX" %}})
+Lecture 12: Factorization in Rings ({{% resource_link "915a2e9e-7147-41d2-9579-cf4fdcade1a7" "PDF" %}}) ({{% resource_link "688cde17-3788-4d66-bdf9-9469852e0e7f" "TEX" %}})
 
-Lecture 13: More Factorization (PDF) ({{% resource_link "8effa114-43ac-4be4-a8b1-a6178ed43ef6" "TEX" %}})
+Lecture 13: More Factorization ({{% resource_link "6bcdefad-d922-4d57-8948-fc8cfc40145f" "PDF" %}}) ({{% resource_link "8effa114-43ac-4be4-a8b1-a6178ed43ef6" "TEX" %}})
 
-Lecture 14: Number Fields (PDF) ({{% resource_link "433aa262-3308-4f5b-9a53-d07e86df4479" "TEX" %}})
+Lecture 14: Number Fields ({{% resource_link "13602148-5a04-48ee-9bcb-d7becdd05309" "PDF" %}}) ({{% resource_link "433aa262-3308-4f5b-9a53-d07e86df4479" "TEX" %}})
 
-Lecture 15: Ideal Factorization (PDF) ({{% resource_link "b8746511-2738-4821-8d46-ada92e4db656" "TEX" %}})
+Lecture 15: Ideal Factorization ({{% resource_link "a770b348-6db3-4588-837b-6fa9feea56e3" "PDF" %}}) ({{% resource_link "b8746511-2738-4821-8d46-ada92e4db656" "TEX" %}})
 
-Lecture 16: Uniqueness of Ideal Factorization (PDF) ({{% resource_link "9d1327f6-ccc0-48f7-9efe-16b5a6ab3987" "TEX" %}})
+Lecture 16: Uniqueness of Ideal Factorization ({{% resource_link "e7995649-ce85-4b20-b58d-99bbd3bf3069" "PDF" %}}) ({{% resource_link "9d1327f6-ccc0-48f7-9efe-16b5a6ab3987" "TEX" %}})
 
-Lecture 17: Ideals in Quadratic Fields (PDF) ({{% resource_link "d68eaa7e-c86a-41d6-8387-f6abae7693ee" "TEX" %}})
+Lecture 17: Ideals in Quadratic Fields ({{% resource_link "981f00df-87b3-4410-a6f5-873cc7ee9307" "PDF" %}}) ({{% resource_link "d68eaa7e-c86a-41d6-8387-f6abae7693ee" "TEX" %}})
 
-Lecture 18: The Ideal Class Group (PDF) ({{% resource_link "9cec1879-6672-49c6-966f-8273643a3503" "TEX" %}})
+Lecture 18: The Ideal Class Group ({{% resource_link "624bd66d-f9d1-4a87-a5cf-1d8abf3869d8" "PDF" %}}) ({{% resource_link "9cec1879-6672-49c6-966f-8273643a3503" "TEX" %}})
 
-Lecture 19: Modules over a Ring (PDF) ({{% resource_link "3874ce28-e996-46bf-9ca3-2d70a5f052b8" "TEX" %}})
+Lecture 19: Modules over a Ring ({{% resource_link "659b3d0e-365c-41c7-8096-1cd208b6b539" "PDF" %}}) ({{% resource_link "3874ce28-e996-46bf-9ca3-2d70a5f052b8" "TEX" %}})
 
-Lecture 20: Modules and Presentation Matrices (PDF) ({{% resource_link "a6859d56-2f43-4aed-80df-df9aba4d47ad" "TEX" %}})
+Lecture 20: Modules and Presentation Matrices ({{% resource_link "27b51bbf-e62b-4bdd-8418-26885bc9a7c4" "PDF" %}}) ({{% resource_link "a6859d56-2f43-4aed-80df-df9aba4d47ad" "TEX" %}})
 
 Lecture 21: Smith Normal Form (PDF) ({{% resource_link "2db94a0e-e8d9-4978-b979-fe64918aa1a5" "TEX" %}})
 
