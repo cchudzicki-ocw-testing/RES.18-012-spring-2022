@@ -9,7 +9,7 @@ Complete Set of Algebra II Notes in One File (PDF), TEX files and associated ima
 
 Lecture 1: Representations (PDF) ({{% resource_link "81f318e0-7fb1-4f4b-abb2-26109bb69d6e" "TEX" %}})
 
-Lecture 2: Characters and The Direct Sum (PDF) ({{% resource_link "15ad9bbb-6b61-45cc-bb5b-9181620c0862" "TEX" %}})
+Lecture 2: Characters and the Direct Sum (PDF) ({{% resource_link "15ad9bbb-6b61-45cc-bb5b-9181620c0862" "TEX" %}})
 
 Lecture 3: Irreducible Representations (PDF) ({{% resource_link "ed6ee731-89b9-4007-bcd5-8898ef72a9c6" "TEX" %}})
 
@@ -73,7 +73,7 @@ Lecture 32: Solving Polynomial Equations (PDF) ({{% resource_link "ae5e11be-d647
 
 Lecture 33: Symmetric Polynomials and the Discriminant (PDF) ({{% resource_link "c505c908-a776-4550-a920-da7f76d0efd1" "TEX" %}})
 
-Lecture 34: Solving Polynomial Equations (PDF) ({{% resource_link "bccfb89e-ba37-49fe-a2ea-35f7e855f4da" "TEX" %}})
+Lecture 34: Solving Polynomial Equations (continued) (PDF) ({{% resource_link "bccfb89e-ba37-49fe-a2ea-35f7e855f4da" "TEX" %}})
 
 Lecture 35: Final Remarks (PDF) ({{% resource_link "052b4d61-8719-4bcd-ab48-a663c37f42a7" "TEX" %}})
 
