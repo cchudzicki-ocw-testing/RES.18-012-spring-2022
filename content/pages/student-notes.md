@@ -65,16 +65,16 @@ Lecture 28: Geometry of Function Fields ({{% resource_link "b645a36b-d834-44fe-b
 
 Lecture 29: Galois Theory ({{% resource_link "e0eb0ed9-d697-489d-a98d-76100b8cf5b0" "PDF" %}}) ({{% resource_link "e816c207-ef58-4c2d-ad28-bb967f5df698" "TEX" %}})
 
-Lecture 30: Main Theorem of Galois Theory (PDF) ({{% resource_link "12b5fad1-5c69-4295-af48-cf2a6b996609" "TEX" %}})
+Lecture 30: Main Theorem of Galois Theory ({{% resource_link "89fa84e1-8ff8-44b2-912f-98ee64db6fbf" "PDF" %}}) ({{% resource_link "12b5fad1-5c69-4295-af48-cf2a6b996609" "TEX" %}})
 
-Lecture 31: Applications of the Galois Correspondence (PDF) ({{% resource_link "7caf82d3-5c73-4c02-ac20-1753287bca41" "TEX" %}})
+Lecture 31: Applications of the Galois Correspondence ({{% resource_link "40ea6125-be68-4c56-a7a2-833343335798" "PDF" %}}) ({{% resource_link "7caf82d3-5c73-4c02-ac20-1753287bca41" "TEX" %}})
 
-Lecture 32: Solving Polynomial Equations (PDF) ({{% resource_link "ae5e11be-d647-4962-8257-572863f29d59" "TEX" %}})
+Lecture 32: Solving Polynomial Equations ({{% resource_link "2f1b1751-3458-44ca-bf50-3f9f64f57f9c" "PDF" %}}) ({{% resource_link "ae5e11be-d647-4962-8257-572863f29d59" "TEX" %}})
 
-Lecture 33: Symmetric Polynomials and the Discriminant (PDF) ({{% resource_link "c505c908-a776-4550-a920-da7f76d0efd1" "TEX" %}})
+Lecture 33: Symmetric Polynomials and the Discriminant ({{% resource_link "20eebe32-76cd-46ac-8568-5876579dcd15" "PDF" %}}) ({{% resource_link "c505c908-a776-4550-a920-da7f76d0efd1" "TEX" %}})
 
-Lecture 34: Solving Polynomial Equations (continued) (PDF) ({{% resource_link "bccfb89e-ba37-49fe-a2ea-35f7e855f4da" "TEX" %}})
+Lecture 34: Solving Polynomial Equations (continued) ({{% resource_link "d6956f3b-4f87-4d64-bc15-c2cad599e4e7" "PDF" %}}) ({{% resource_link "bccfb89e-ba37-49fe-a2ea-35f7e855f4da" "TEX" %}})
 
-Lecture 35: Final Remarks (PDF) ({{% resource_link "052b4d61-8719-4bcd-ab48-a663c37f42a7" "TEX" %}})
+Lecture 35: Final Remarks ({{% resource_link "caeb11d5-b3d9-4c25-ad6b-bd44bb048487" "PDF" %}}) ({{% resource_link "052b4d61-8719-4bcd-ab48-a663c37f42a7" "TEX" %}})
 
 Appendix: Dimensions of Irreducible Characters ({{% resource_link "e39575b8-4652-4603-822b-6079f7c3d54b" "PDF" %}}) ({{% resource_link "b88a26d4-7b4d-4061-b821-726faee59876" "TEX" %}})
