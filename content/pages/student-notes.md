@@ -5,7 +5,7 @@ draft: false
 title: Student Notes
 uid: f78859a1-11a5-4c4a-b475-1fc4bfaa6f86
 ---
-Complete set of Algebra II notes in one file ({{% resource_link "637e94df-babc-4915-b480-6f4e67d01557" "PDF - 1.5 MB" %}}), TEX files and associated images ({{% resource_link "7704cca6-27d0-43eb-a64c-bab6caaab676" "ZIP" %}}) 
+Complete set of Algebra II notes in one file ({{% resource_link "637e94df-babc-4915-b480-6f4e67d01557" "PDF - 1.5MB" %}}), TEX files and associated images ({{% resource_link "7704cca6-27d0-43eb-a64c-bab6caaab676" "ZIP" %}}) 
 
 Lecture 1: Representations ({{% resource_link "b5f967b1-59e5-45ff-8218-bb16a467fcab" "PDF" %}}) ({{% resource_link "81f318e0-7fb1-4f4b-abb2-26109bb69d6e" "TEX" %}})
 
